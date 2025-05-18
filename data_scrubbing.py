@@ -4,7 +4,7 @@ ticker = "DXY"
 data = yf.download(ticker, start="2018-01-01", end="2024-12-31")
 print(data.head())
 
-data.to_csv("aapl_stock_data.csv")
+data.to_csv("dxy_stock_data.csv")
 
 import matplotlib.pyplot as plt
 
