@@ -1,10 +1,10 @@
-# 📈 Apple Stock Price Predictor
+#  Apple Stock Price Predictor
 
 A simple machine learning application built with Python that predicts the next day's **opening stock price** of Apple Inc. based on historical data. The GUI is built using **PySimpleGUI** and uses a trained model saved with `joblib`.
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Predicts the **next day's opening price** using the previous day's:
   - High
@@ -17,7 +17,7 @@ A simple machine learning application built with Python that predicts the next d
 
 ---
 
-## 🧠 Model Details
+##  Model Details
 
 - Trained using historical data from Yahoo Finance (`AAPL.csv`)
 - Algorithms used:
@@ -29,7 +29,7 @@ A simple machine learning application built with Python that predicts the next d
 
 ---
 
-## 🛠️ Requirements
+##  Requirements
 
 Install the required libraries:
 
